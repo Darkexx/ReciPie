@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- base set of styles that apply to all versions -->
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/bars</item>
+        <item name="colorPrimaryDark">@color/button</item>
+        <item name="colorAccent">@color/button</item>
+        <item name="fontFamily">@font/nexabold</item>
+    </style>
+
+    <style name="SwitchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorControlActivated">@color/item</item>
+    </style>
+
+    <!-- declare the theme name that's actually applied in the manifest file -->
+    <style name="AppTheme" parent="BaseAppTheme" />
+</resources>

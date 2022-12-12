@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765326026017",
+    "project_id": "recipie-31aab",
+    "storage_bucket": "recipie-31aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765326026017:android:2548401ffac87de1968a60",
+        "android_client_info": {
+          "package_name": "com.example.recipie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765326026017-fcejj78cdqrgej58j804lm9kvu04f6dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3CtF3y_SoMGQApUcXOXMeSbXYK35g3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765326026017-fcejj78cdqrgej58j804lm9kvu04f6dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

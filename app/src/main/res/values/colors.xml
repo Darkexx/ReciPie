@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFF</color>
+    <color name="item">#514538</color>
+
+    <color name="containers">#D8C7BA</color>
+    <color name="containers2">#FFFFFF</color>
+    <color name="bars">#FFA200</color>
+
+    <color name="button">#5A5A5A</color>
+    <color name="button2">#CC5C21</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Reci Pie</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="user">Nombre de usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrar</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="or">ó</string>
+    <string name="type_password">Escribre tu contraseña</string>
+    <string name="type_mail">Proporciona un correo valido</string>
+    <string name="incorrect_user">Usuario y/o contraseña no reconocida</string>
+    <string name="welcome">Bienvenido</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="my_recipes">Mis recetas</string>
+    <string name="online_recipes">Recetas online</string>
+    <string name="favorite_recipes">Recetas favoritas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="new_recipe">Nueva receta</string>
+
+    <string name="recipe_name">Nombre de receta</string>
+    <string name="recipe_desc">Descripción de receta</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="directions">Preparación</string>
+    <string name="comments">Comentarios</string>
+
+    <string name="new_ingredient">Agrega un nuevo ingrediente</string>
+    <string name="new_direction">Agrega un nuevo paso </string>
+    <string name="new_comment">Agrega un comentario </string>
+
+    <string name="num_direction">Paso </string>
+    <string name="information">Información</string>
+    <string name="visibility">Visibilidad</string>
+    <string name="visbility_public">Público</string>
+    <string name="visbility_private">Privado</string>
+    <string name="save">Guardar</string>
+    <string name="recipe_pic">Foto de receta</string>
+    <string name="posted_by">Publicado por</string>
+
+    <string name="saving">Guardando...</string>
+    <string name="deleting">Borrando...</string>
+    <string name="data_saved">Información almacenada</string>
+    <string name="recipe_erased">Receta borrada</string>
+    <string name="empty">Datos vacios</string>
+
+    <string name="notification_comment">Han comentado tu receta</string>
+    <string name="added_2_favs">Agregado a favoritos</string>
+    <string name="deleted_2_favs">Borrado de favoritos</string>
+
+    <string name="no_recipes_available">No tienes recetas, aún.</string>
+
+</resources>

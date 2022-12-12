@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_recipes_root"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="15dp"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/my_recipes_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/no_recipes_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="@string/no_recipes_available"/>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/new_recipe_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:contentDescription="@string/new_recipe"
+        app:backgroundTint="@color/button"
+        app:srcCompat="@drawable/icon_add" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

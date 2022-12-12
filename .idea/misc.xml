@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.1595" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/ic_round_add_circle_24.xml" value="0.121" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/ic_round_exit_to_app_24.xml" value="0.1605" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/ic_round_home_24.xml" value="0.1595" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/ic_round_settings_24.xml" value="0.1605" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_add.xml" value="0.1455" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_add_circle.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_camera.xml" value="0.1455" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_clear.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_delete.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_exit.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_favorite.xml" value="0.193" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_home.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_language.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_save.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/drawable/icon_settings.xml" value="0.159" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/font/fonts.xml" value="0.30256410256410254" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/activity_account.xml" value="0.1" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/activity_new_recipe.xml" value="0.15775158658204896" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/activity_recipe_editor.xml" value="0.25" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/activity_recipe_viewer.xml" value="0.22665457842248413" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/app_bar_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_account.xml" value="0.19356300997280146" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_comment.xml" value="0.22830269345874304" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_direction.xml" value="0.22665457842248413" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.22830269345874304" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_ingredient.xml" value="0.18" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_my_recipes.xml" value="0.33" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_online_recipes.xml" value="0.1" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_editor.xml" value="0.24299065420560748" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_extended.xml" value="0.25" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_mini.xml" value="0.22665457842248413" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_preview.xml" value="0.20051303976058144" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_preview_extended.xml" value="0.22830269345874304" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_recipe_viewer.xml" value="0.2565789473684211" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_register.xml" value="0.25" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/fragment_second.xml" value="0.1956521739130435" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/nav_header.xml" value="0.1716485507246377" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/menu/activity_main_drawer.xml" value="0.278125" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/menu/drawer_menu.xml" value="0.22830269345874304" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/menu/main.xml" value="0.278125" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/menu/menu_main.xml" value="0.278125" />
+        <entry key="..\:/Files/Proyecto Software/ReciPie/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Lucho/AndroidStudioProjects/ReciPie/app/src/main/res/layout/activity_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Lucho/AndroidStudioProjects/ReciPie/app/src/main/res/layout/content_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Lucho/AndroidStudioProjects/ReciPie/app/src/main/res/layout/fragment_first.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Lucho/AndroidStudioProjects/ReciPie/app/src/main/res/layout/fragment_second.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Lucho/AndroidStudioProjects/ReciPie/app/src/main/res/menu/menu_main.xml" value="0.12864583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

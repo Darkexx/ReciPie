@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view"
+    tools:context="com.example.recipie.Activities.MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_home"
+            android:title="@string/my_recipes"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icon_language"
+            android:title="@string/online_recipes" />
+
+        <item
+            android:id="@+id/nav_favs"
+            android:icon="@drawable/icon_favorite"
+            android:title="@string/favorite_recipes" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/icon_exit"
+            android:title="@string/logout" />
+
+    </group>
+</menu>
+
+    <!--android:icon="@drawable/ic_menu_slideshow"-->
